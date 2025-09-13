@@ -13,7 +13,7 @@ const Certifi_Card = ({ title, status, date, qualification, recall, img }) => {
     <div className="cert-card">
     
       <div className="cert-badge">
-        <img src={img} alt="Gold Badge" />
+        <img src={img} alt={`${title} Badge`} />
       </div>
       
       <h2 className="cert-title">{title}</h2>
