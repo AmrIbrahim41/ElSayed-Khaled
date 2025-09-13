@@ -12,7 +12,7 @@ const Services = () => {
             <div className="services-grid">
                 <SCard
                     Icon="🔍"
-                    title="Supported pre-sales"
+                    title="Client Services"
                     List={["identifying client challenges and recommending ERP solutions.","Mapped and optimized ERP workflows to improve efficiency.","Managed SQL tables and data uploads for accurate system integration"]}
                 />
                
