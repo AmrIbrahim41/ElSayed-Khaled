@@ -5,7 +5,7 @@ import SCard from './ServiceCard/SCard'
 const Services = () => {
     return (
         <div className="services-section" id="services">
-            <h2>Services</h2>
+            <h2> My Experiences </h2>
             <p>I provide innovative and integrated solutions to help you achieve the success you aspire to.</p>
 
             {/* Container for the cards grid */}
