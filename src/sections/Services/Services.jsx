@@ -40,7 +40,7 @@ const Services = () => {
                 />
                 <SCard
                     Icon="🖥️"
-                    title="Smart City Platform (in Saudi)"
+                    title="Smart City Platform "
                     List={["IoT Platform & Monitoring: Centralized system integrating IoT devices for real-time tracking, analytics, and infrastructure maintenance.",
                            "Smart Services: Includes smart parking with real-time availability and automated booking, plus streamlined facility management workflows.",
                             "Mobile App: Empowers employees with task assignment, geo-tracking, offline access, and real-time reporting."]}
